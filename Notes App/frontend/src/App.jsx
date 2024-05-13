@@ -21,7 +21,7 @@ const App = () => {
         draggable={false}
         pauseOnHover={false}
         theme='dark'
-        transition={Bounce} // Use Bounce transition directly
+        transition={Bounce} 
       />
 
       <Router>
